@@ -1,1 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+openai
+python-dotenv
+tqdm
+prophet   # optional – only needed for the demo forecast endpoint
+pytest
+pytest-asyncio
+flake8
 
